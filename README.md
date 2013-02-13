@@ -10,3 +10,5 @@ git init# Sets up the necessary Git files
 # Initialized empty Git repository in /Users/you/Midterm/.git/
 
 touch README# Creates a file called "README" in your Midterm directory
+
+git push <README.md> <commit SHA> <master>
